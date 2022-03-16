@@ -1,17 +1,16 @@
 {
-  "employees": [
-    {
-      "id": 1,
-      "name": "Scott"
-      "Salary":"10000$"
-    },
-    {
-      "id": 2,
-      "name": "Terri"
-      "Salary":"10040.40$"
-    }
-  ],
-  "Company": {
-    "name": "EME Private ltd."
-  }
+	"employees": [{
+			"id": 1,
+			"name": "Scott",
+			"Salary": "10000$"
+		},
+		{
+			"id": 2,
+			"name": "Terri",
+			"Salary": "10040.40$"
+		}
+	],
+	"Company": {
+		"name": "EME Private ltd."
+	}
 }
