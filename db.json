@@ -8,6 +8,11 @@
 			"id": 2,
 			"name": "Terri",
 			"Salary": "10040.40$"
+		},
+		{
+			"id": 3,
+			"name": "Test",
+			"Salary": "10048$"
 		}
 	],
 	"Company": {
