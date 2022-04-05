@@ -1,28 +1,12 @@
 {
-  "Customers": [
+  "data": [
     {
-      "firstName": "John",
-      "lastName": "Smith",
-      "age": 25,
-      "cid": 1003
-    },
-    {
-      "firstName": "Willie",
-      "lastName": "Aames",
-      "age": 40,
-      "cid": 1004
-    },
-    {
-      "firstName": "Josh",
-      "lastName": "Allen",
-      "age": 35,
-      "cid": 1002
-    },
-    {
-      "firstName": "Eve",
-      "lastName": "Arden",
-      "age": 30,
-      "cid": 1001
+      "id": "1",
+      "title": "They Remain",
+      "year": "2018",
+      "genres": [
+        "Thriller"
+      ]
     }
-  ]
+    ]
 }
