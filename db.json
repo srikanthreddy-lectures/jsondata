@@ -7,6 +7,16 @@
       "genres": [
         "Thriller"
       ]
+    },
+    {
+      "id": "2",
+      "title": "Beast of Burden",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ]
     }
     ]
 }
