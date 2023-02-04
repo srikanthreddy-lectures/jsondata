@@ -1,14 +1,25 @@
+[{
+    "Name":"Srikanth Reddy",
+    "Position":"Project Manager",
+    "Office":"KMIT",
+    "Age":40,
+    "StartDate":"12-12-1998",
+    "Salary":50000
+},
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Srikanth",
-        "age": 30
-      },
-      {
-        "name": "Ram",
-        "id": 2,
-        "age": 40
-      }
-    ]
-  }
+    "Name":"Srikanth Reddy",
+    "Position":"Project Manager",
+    "Office":"KMIT",
+    "Age":40,
+    "StartDate":"12-12-1998",
+    "Salary":50000
+},
+{
+    "Name":"Srikanth Reddy",
+    "Position":"Project Manager",
+    "Office":"KMIT",
+    "Age":40,
+    "StartDate":"12-12-1998",
+    "Salary":50000
+}
+]
